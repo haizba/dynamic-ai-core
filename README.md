@@ -1,2 +1,2 @@
 # dynamic-ai-core
-Exploring secure, low-consumption AI through local-first dynamic relationship processing.
+A local-first, secure, low-consumption AI engine with dynamic relationship processing and multilingual relationship skeleton generation.
