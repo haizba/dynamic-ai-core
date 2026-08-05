@@ -13,6 +13,8 @@ Local-first Dynamic Relationship Processing Engine.
 - Experiment 001: Alice multilingual dynamic structure extraction
 - Experiment 002: Journey to the West shuffled text recovery
 - Experiment 003: Long text dynamic compression
+- Experiment 005: Video Frame JSON Dynamic Trajectory Experiment
+- Experiment 006: Real Video Dynamic Trajectory Experiment
 
 ## Principles
 
