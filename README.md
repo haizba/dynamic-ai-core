@@ -1,6 +1,10 @@
 # Dynamic AI Lab v0.1
 
-Local-first Dynamic Relationship Processing Engine.
+Local-First Dynamic Relationship Processing Engine
+A local-first, secure, and low-consumption AI engine designed for dynamic relationship processing and multi-language relational skeleton generation.
+Core algorithm: ~350 lines of Python.
+Dynamic AI Core extracts stable relationship structures, dynamic changes, and information trajectories from complex text without relying on cloud services, large language models, training datasets, external APIs, or network connections.
+
 
 ## Core
 
