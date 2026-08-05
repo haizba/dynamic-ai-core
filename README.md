@@ -14,7 +14,7 @@ Dynamic AI Core extracts stable relationship structures, dynamic changes, and in
 - Core Positioning:
 A local-first, zero-LLM-dependency dynamic topology and trajectory extraction engine, driven entirely by deterministic code logic.
 Extreme Performance:
-No bloated compute required. Running purely on a single CPU, it effortlessly processes nearly 100,000 words of long text or high-dimensional time-series features in just 3.5 seconds.
+No bloated compute required. Running purely on a single CPU, it effortlessly processes nearly 100,000 words of long text or high-dimensional time-series features in just 5.5 seconds.
 Disruptive Significance:
 Breaking the compute arms race of LLM clusters. By leveraging deterministic algorithms, it provides a lightweight, low-power, and hallucination-free structural backbone for all-modal data.
 
