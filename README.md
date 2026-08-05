@@ -28,7 +28,17 @@ Breaking the compute arms race of LLM clusters. By leveraging deterministic algo
 
 ## Principles
 
-The project explores an independent observation layer between information expression and information meaning.
+The project explores an independent observation layer between information expression and information meaning.Collaboration
+
+Developers and researchers interested in:
+
+Dynamic AI architectures
+Local intelligence systems
+Relationship extraction
+Pure-code information processing
+Lightweight reasoning systems
+
+are welcome to participate in research, verification, and improvement.his project is driven by my original ideas and developed with the assistance of AI.
 
 Author:
 海兹巴
