@@ -1,0 +1,15 @@
+{
+  "files": {
+    "run.py": 140,
+    "开始压缩.py": 22,
+    "engine/__init__.py": 0,
+    "engine/aeiou.py": 193,
+    "engine/compressor.py": 320,
+    "engine/docx_io.py": 177,
+    "engine/json_adapter.py": 178,
+    "engine/reader.py": 45,
+    "engine/report.py": 213,
+    "engine/vector_math.py": 39
+  },
+  "total_python_lines": 1327
+}

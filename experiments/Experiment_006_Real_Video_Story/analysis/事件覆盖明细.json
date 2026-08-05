@@ -1,0 +1,154 @@
+[
+  {
+    "event_id": "E01",
+    "name": "小蓝进入画面",
+    "start_s": 15.0,
+    "end_s": 30.0,
+    "selected_inside_count": 2,
+    "selected_inside_frames": [
+      342,
+      531
+    ],
+    "nearest_selected_s": 26.55,
+    "distance_to_center_s": 4.05,
+    "captured": true
+  },
+  {
+    "event_id": "E02",
+    "name": "小蓝接近箱子",
+    "start_s": 30.0,
+    "end_s": 45.0,
+    "selected_inside_count": 2,
+    "selected_inside_frames": [
+      683,
+      832
+    ],
+    "nearest_selected_s": 34.15,
+    "distance_to_center_s": 3.35,
+    "captured": true
+  },
+  {
+    "event_id": "E03",
+    "name": "小蓝拿起箱子",
+    "start_s": 45.0,
+    "end_s": 60.0,
+    "selected_inside_count": 2,
+    "selected_inside_frames": [
+      948,
+      1094
+    ],
+    "nearest_selected_s": 54.7,
+    "distance_to_center_s": 2.2,
+    "captured": true
+  },
+  {
+    "event_id": "E04",
+    "name": "小蓝搬向闸门",
+    "start_s": 60.0,
+    "end_s": 75.0,
+    "selected_inside_count": 2,
+    "selected_inside_frames": [
+      1210,
+      1438
+    ],
+    "nearest_selected_s": 71.9,
+    "distance_to_center_s": 4.4,
+    "captured": true
+  },
+  {
+    "event_id": "E05",
+    "name": "闸门落下阻挡",
+    "start_s": 75.0,
+    "end_s": 90.0,
+    "selected_inside_count": 2,
+    "selected_inside_frames": [
+      1590,
+      1666
+    ],
+    "nearest_selected_s": 83.3,
+    "distance_to_center_s": 0.8,
+    "captured": true
+  },
+  {
+    "event_id": "E06",
+    "name": "小蓝挥手求助",
+    "start_s": 90.0,
+    "end_s": 105.0,
+    "selected_inside_count": 0,
+    "selected_inside_frames": [],
+    "nearest_selected_s": 106.0,
+    "distance_to_center_s": 8.5,
+    "captured": false
+  },
+  {
+    "event_id": "E07",
+    "name": "闸门升起开放",
+    "start_s": 105.0,
+    "end_s": 120.0,
+    "selected_inside_count": 3,
+    "selected_inside_frames": [
+      2120,
+      2242,
+      2360
+    ],
+    "nearest_selected_s": 112.1,
+    "distance_to_center_s": 0.4,
+    "captured": true
+  },
+  {
+    "event_id": "E08",
+    "name": "小蓝穿过通道",
+    "start_s": 120.0,
+    "end_s": 135.0,
+    "selected_inside_count": 2,
+    "selected_inside_frames": [
+      2449,
+      2623
+    ],
+    "nearest_selected_s": 131.15,
+    "distance_to_center_s": 3.65,
+    "captured": true
+  },
+  {
+    "event_id": "E09",
+    "name": "小蓝向小红交付箱子",
+    "start_s": 135.0,
+    "end_s": 150.0,
+    "selected_inside_count": 2,
+    "selected_inside_frames": [
+      2784,
+      2868
+    ],
+    "nearest_selected_s": 143.4,
+    "distance_to_center_s": 0.9,
+    "captured": true
+  },
+  {
+    "event_id": "E10",
+    "name": "小红把箱子放入目标区",
+    "start_s": 150.0,
+    "end_s": 165.0,
+    "selected_inside_count": 3,
+    "selected_inside_frames": [
+      3016,
+      3091,
+      3296
+    ],
+    "nearest_selected_s": 154.55,
+    "distance_to_center_s": 2.95,
+    "captured": true
+  },
+  {
+    "event_id": "E11",
+    "name": "任务完成庆祝",
+    "start_s": 165.0,
+    "end_s": 180.0,
+    "selected_inside_count": 1,
+    "selected_inside_frames": [
+      3485
+    ],
+    "nearest_selected_s": 174.25,
+    "distance_to_center_s": 1.75,
+    "captured": true
+  }
+]

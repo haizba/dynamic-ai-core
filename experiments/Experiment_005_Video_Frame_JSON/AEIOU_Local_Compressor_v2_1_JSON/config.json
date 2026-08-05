@@ -1,0 +1,19 @@
+{
+  "min_output_chars": 4000,
+  "max_output_chars": 7000,
+  "preferred_output_chars": 5500,
+  "ngram_min": 2,
+  "ngram_max": 5,
+  "long_unit_fallback_chars": 800,
+  "include_subfolders": true,
+  "output_title": "AEIOU 视频帧 JSON 动态轨迹压缩",
+  "json_ignored_keys": [
+    "frame_id",
+    "frame_index",
+    "timestamp",
+    "timestamp_ms",
+    "time",
+    "id",
+    "index"
+  ]
+}
